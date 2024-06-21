@@ -74,7 +74,13 @@ Group 0: Worth looking at
 - Heroes of Might & Magic III
 - Tyranny
 - Griftlands
-
+- Suikoden
+- Suikoden 2
+- Suikoden 3
+- Suikoden 4
+- WarTales
+- Wildermyth
+- Pathfinder Wrath of the Righteous
 
 Group 1: Related to Group 0 games
 - Legend of Heroes: Trails from Zero
@@ -122,14 +128,10 @@ Group 3: I don't know what these are.  Need research
 - Ara Fell: Enhanced Edition
 - Symphony of War
 - Wild Arms
-- Wildermyth
 - Wargroove
 - Gloomhaven
-- Pathfinder Wrath of the Righteous
 - Shadow Hearts
-- WarTales
 - Atom RPG
 - Triangle Strategy
 - Chained Echoes
 - Live A Live
-
