@@ -57,6 +57,7 @@ Group 0: Worth looking at
 - Valkyrie Profile
 - Vagrant Story
 - Breath of Fire
+- Breath of Fire 2
 - Ni No Kuni
 - Pillars of Eternity
 - Valkyria Chronicles
@@ -118,9 +119,6 @@ Group 2: Interesting Indie Games
 
 
 Group 3: I don't know what these are.  Need research
-- Hyperdimension Neptunia Re;Birth1
-- Hyperdimension Neptunia Re;Birth3 V Generation
-- Megadimension Neptunia VII
 - Wandering Sword
 - Horizon's Gate
 - Pit People
