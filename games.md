@@ -1,6 +1,6 @@
 # Games
 ## Turn-Based RPGs
-### Played
+@zaphodb2002:
 - Fallout
 - Fallout 2
 - Chrono Trigger
@@ -78,3 +78,46 @@
 - Symphony of War
 - Undertale
 - Fire Emblem: Awakening
+- Fire Emblem: Three Houses
+- Xenogears
+- Wasteland 2
+- Wasteland 3
+- Legend of Dragoon
+- Valkyrie Profile
+- Vagrant Story
+- Breath of Fire
+- Ni No Kuni
+- Pillars of Eternity
+- Wild Arms
+- Bravely Default
+- Wildermyth
+- Wargroove
+- Neo Scavenger
+- Knights of Pen & Paper
+- Into the Breach
+- Valkyria Chronicles
+- Gloomhaven
+- Battle Brothers
+- The Banner Saga
+- Shadowrun: Dragonfall
+- Pathfinder Wrath of the Righteous
+- XCOM: Enemy Unknown
+- XCOM 2
+- Planescape: Torment
+- Mario + Rabbids Kingdom Battle
+- Blue Dragon
+- Shadow Hearts
+- Grandia
+- Grandia II
+- Wizardry 8
+- Might and Magic 7
+- WarTales
+- Atom RPG
+- Triangle Strategy
+- Heroes of Might & Magic III
+- Tyranny
+- Griftlands
+- Shadowrun Returns
+- Chained Echoes
+- Live A Live
+- Final Fantasy Tactics: The War of the Lions
