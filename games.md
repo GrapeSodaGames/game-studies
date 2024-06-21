@@ -1,0 +1,80 @@
+# Games
+## Turn-Based RPGs
+### Played
+- Fallout
+- Fallout 2
+- Chrono Trigger
+- Sea of Stars
+- Disco Elysium
+- Baldur's Gate III
+- Divinity Original Sin 2
+- Final Fantasy IV
+- Final Fantasy V
+- Final Fantasy VI
+- Final Fantasy VII
+- Final Fantasy VIII
+- Final Fantasy IX
+- Final Fantasy X
+- Pokemon Gen I
+- Pokemon Gen II
+- Pokemon Gen III
+- Pokemon Gen IV
+- Pokemon Gen V
+- South Park: The Stick of Truth
+- Star Wars: KOTOR
+- Star Wars: KOTOR II
+- Earthbound
+- Super Mario RPG
+
+### Not Played
+- Grimm's Hollow
+- Volcano Princess
+- Persona 4 Golden
+- Persona 5 Royal
+- West of Loathing
+- Epic Battle Fantasy 5
+- Bug Fables: The Everlasting Sapling
+- Felvidek
+- Legend of Heroes: Trails in the Sky
+- Super Lesbian Animal RPG
+- In Stars and Time
+- WitchSpring R
+- Cureocity
+- Cassette Beasts
+- Hylics 2
+- Yakuza: Like a Dragon
+- Octopath Traveler II
+- Epic Battle Fantasy 4
+- Persona 3 Reload
+- Legend of Heroes: Trails from Zero
+- Shadows over Loathing
+- Hyperdimension Neptunia Re;Birth1
+- Doom & Destiny
+- Things as They Are
+- Karryn's Prison
+- Troubleshooter: Abandoned Children
+- Legend of Heroes: Trails to Azure
+- Legend of Heroes: Trails of Cold Steel
+- Tohou Artificial Dream in Arcadia
+- BoardLand
+- Deathbulge: Battle of the Bands
+- Dragon Quest IX S
+- Hyperdimension Neptunia Re;Birth3 V Generation
+- Steamworld Heist
+- Wandering Sword
+- Small Saga
+- Megadimension Neptunia VII
+- Horizon's Gate
+- Pit People
+- Quest for the Golden Candelabra
+- Atelier Sophie 2: The Alchemist of the Mysterious Dream
+- Ara Fell: Enhanced Edition
+- Pyre
+- Darkest Dungeon
+- Fuga: Melodies of Steel
+- LISA: Complete Edition
+- Baldur's Gate II
+- Chrono Cross
+- Symphony of War
+- Undertale
+- Fire Emblem: Awakening
